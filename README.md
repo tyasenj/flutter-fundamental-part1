@@ -43,6 +43,8 @@ Jika sudah selesai proses pembuatan project baru, pastikan tampilan seperti beri
 
 ## **Praktikum 2: Menghubungkan Perangkat Android atau Emulator**
 
+<img src= 'gambar/p2_gambar1.jpg'>
+
 ## **Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum**
 
 **Langkah 1:**
@@ -184,3 +186,5 @@ Date and Time Pickers termasuk pada kategori input dan selection widget, berikut
 <img src= 'gambar/p5_gambar6_a.jpg'>
 
 <img src= 'gambar/p5_gambar6_b.jpg'>
+
+Kode Your first Flutter: https://github.com/tyasenj/namer_app/
